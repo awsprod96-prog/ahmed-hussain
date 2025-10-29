@@ -1,7 +1,7 @@
 # Hi there! My name is <a href="https://www.linkedin.com/in/hassan-samo">Ahmed Hussain</a>👋
  
 [![Linkedin Badge](https://img.shields.io/badge/-HassanSamo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-samo/)](https://www.linkedin.com/in/hassan-samo/)
-[![GitHub Badge](https://img.shields.io/badge/-HassanSamo-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/awsprod96-prog/)](https://github.com/awsprod96-prog)
+[![GitHub Badge](https://img.shields.io/badge/-AhmedHussain-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/awsprod96-prog/)](https://github.com/awsprod96-prog)
 
 It's great to meet you! I am Ahmed, a *Wordpress Developer*. My passion lies in **Software Development**, with a growing interest in AI. I have honed my skills in building **user-centered**, **accessible**, and **fully responsive** websites.
 
