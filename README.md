@@ -23,7 +23,7 @@ It's great to meet you! I am Ahmed, a *Wordpress Developer*. My passion lies in 
 <span><img src="https://img.icons8.com/?size=48&id=lRjcvhvtR81o&format=png&color=000000"/></span>
 
 ## My Stats
-[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassansamo&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsprod96-prog&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/awsprod96-prog/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassansamo&langs_count=9&layout=compact&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
 
