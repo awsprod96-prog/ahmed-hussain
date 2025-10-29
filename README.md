@@ -25,7 +25,7 @@ It's great to meet you! I am Ahmed, a *Wordpress Developer*. My passion lies in 
 ## My Stats
 [![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsprod96-prog&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/awsprod96-prog/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassansamo&langs_count=9&layout=compact&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awsprod96-prog&langs_count=9&layout=compact&theme=discord_old_blurple)](https://github.com/awsprod96-prog/github-readme-stats)
 
 ##  Let's connect :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@HassanSamo9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HassanSamo9)](https://twitter.com/HassanSamo9) 
